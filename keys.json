@@ -1,12 +1,14 @@
 {
-  "keys": {
-    "ABC123": {
-      "hwid": "",
-      "blacklisted": false
+    "KEY123-TEST-ABC": {
+        "hwid": "",
+        "created": "2025-01-01"
     },
-    "XYZ789": {
-      "hwid": "",
-      "blacklisted": false
+    "LOL-999-KEY": {
+        "hwid": "",
+        "created": "2025-01-01"
+    },
+    "MYCHEAT-TEST-001": {
+        "hwid": "",
+        "created": "2025-01-01"
     }
-  }
 }
