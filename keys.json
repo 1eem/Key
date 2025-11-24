@@ -1,0 +1,12 @@
+{
+  "keys": {
+    "ABC123": {
+      "hwid": "",
+      "blacklisted": false
+    },
+    "XYZ789": {
+      "hwid": "",
+      "blacklisted": false
+    }
+  }
+}
